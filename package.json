@@ -1,0 +1,15 @@
+{
+  "name": "pirateapp",
+  "version": "1.0.0",
+  "description": "for the MLH Aye Aye Hacker Hackathon",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^7.21.0",
+    "firebase-admin": "^9.2.0"
+  }
+}
